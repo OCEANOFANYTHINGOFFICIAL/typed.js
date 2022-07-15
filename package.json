@@ -12,7 +12,7 @@
     "animation"
   ],
   "devDependencies": {
-    "babel": "^5.8.23",
+    "babel": "^6.0.0",
     "babel-core": "^5.8.24",
     "babel-eslint": "^4.1.1",
     "babel-loader": "^5.3.2",
@@ -32,8 +32,8 @@
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^1.5.2",
     "gulp-uglify": "^1.4.1",
-    "webpack": "^1.12.1",
-    "webpack-stream": "^2.1.0",
+    "webpack": "^2.0.0",
+    "webpack-stream": "^4.0.0",
     "lodash": "^4.17.5",
     "mime": "^1.4.1",
     "debug": "^2.6.9"
