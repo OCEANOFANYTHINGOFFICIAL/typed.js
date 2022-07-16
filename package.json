@@ -35,7 +35,7 @@
     "webpack": "1.15.0",
     "webpack-stream": "2.3.0",
     "lodash": "4.17.19",
-    "mime": "1.6.0",
+    "mime": "3.0.0",
     "debug": "2.6.9"
   }
 }
