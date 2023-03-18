@@ -26,7 +26,7 @@
     "express": "4.17.1",
     "gulp": "3.9.1",
     "gulp-documentation": "3.2.1",
-    "gulp-eslint": "4.0.2",
+    "gulp-eslint": "5.0.0",
     "gulp-express": "0.3.5",
     "gulp-livereload": "3.8.1",
     "gulp-rename": "1.4.0",
