@@ -34,7 +34,7 @@
     "gulp-uglify": "1.5.4",
     "webpack": "1.15.0",
     "webpack-stream": "2.3.0",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "mime": "1.6.0",
     "debug": "2.6.9"
   }
